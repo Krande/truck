@@ -17,3 +17,5 @@ dist/
 *.vtp
 *.vtu
 proptest-regressions/
+temp/
+.idea/
